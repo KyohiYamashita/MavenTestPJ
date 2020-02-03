@@ -57,7 +57,7 @@ public class WorkJava {
 			// SQLERRM(SQLメッセージ)の出力
 			System.out.println("SQLERRM=" + e.getMessage());
 			
-			return "9";
+			return "99";
         }
 	}
 }
